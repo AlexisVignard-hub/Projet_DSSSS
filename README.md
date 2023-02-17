@@ -1,4 +1,4 @@
-# Projet_DSSSS
+# Projet_DSSS
 
 Ce projet s'intéresse à l'étude de l'impact des conditions climatiques humides ou venteuses sur la consommation électrique dans les grandes métropoles françaises, et s'il existe un lien avec l'isolation thermique des ménages. 
 
