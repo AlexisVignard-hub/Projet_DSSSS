@@ -8,3 +8,4 @@ En plus des données sur l'isolation thermiques délivrées par la FNAIM (répar
 - Les données relatives au logement de l'INSEE : https://www.insee.fr/fr/statistiques/5650749
 - La base de données relatives aux DPE est manuellement crée depuis le baromètres des DPE de la FNAIM : https://www.fnaim.fr/4262-barometre-des-dpe-novembre-2022.htm (--> "télécharger le baromètre des DPE de la FNAIM dans son intégralité")
 
+Afin de reproduire l'expérience, il suffit de télécharger et de lancer le fichier "code_dsss" en veillant à bien récupérer les bonnes bases de données (soit depuis les sites respectifs, soit depuis le sharepoint de l'ENSAE).
